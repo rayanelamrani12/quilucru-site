@@ -19,7 +19,7 @@ const TEAM = [
     name: "Gabriel Rodriguez", 
     role: "Auteur / Jeu", 
     bio: "Un jeu instinctif qui vous accroche dès la première seconde.",
-    details: "À 23 ans, Gabriel est l'un des piliers d'écriture de la compagnie. Co-auteur de 'La Danse des Cavaliers', il apporte une physicalité brute et une présence électrique.",
+    details: "C'est les larmes de rigoler.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400"
   },
   { 
