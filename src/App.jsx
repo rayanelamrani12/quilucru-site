@@ -19,7 +19,7 @@ const TEAM = [
     name: "Gabriel Rodriguez", 
     role: "Auteur / Jeu", 
     bio: "C'est les larmes de rigoler.",
-    details: "My name is Uvuvwevwevwe Onyetenyevwe Ugwemubwem Osas.",
+    details: "À quoi sert ton million si tu prends perpet. Million, liberté, tu connais.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400"
   },
   { 
